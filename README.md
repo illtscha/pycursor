@@ -105,3 +105,4 @@ Requires `-p` or `--path` for the save folder and `-n` or `--name` for the name 
 
 ## `-o` or `--open`
 Opens the Windows mouse settings at the end so you can set the Cursor Theme.
+
